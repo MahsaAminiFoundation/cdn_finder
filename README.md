@@ -2,13 +2,21 @@
 Find working cloudflare pops for MahsaAminiVPN
 
 
-# Using Ubuntu 22
+# Clone the repo
+First, clone the repo on your local machine:
+```
+git clone git@github.com:MahsaAminiFoundation/cdn_finder.git
+```
+
+Use one of the approaches below based on what is your operating system:
+
+##  Using Ubuntu 22
 ```
 python pop_checker.py
 ```
 
 
-# Using Docker
+## Using Docker
 Build docker image:
 
 ```
