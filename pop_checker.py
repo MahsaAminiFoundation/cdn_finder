@@ -59,7 +59,7 @@ server_info = {
     "port": 80,
     "host": "m235.baluchestan.buzz",
     "protocol": "vmess",
-    "uuid": "3a1cb91b-215e-47ba-97d4-e8a70b30bc2d",
+    "uuid": "02343adc-c4b2-4482-8c26-3a25d12969d9",
     "path": "/rhealth_check_user_mahsa2355eyh"
 } 
 
