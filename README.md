@@ -12,7 +12,7 @@ Use one of the approaches below based on what is your operating system:
 
 ##  Using Ubuntu 22
 ```
-python pop_checker.py
+python3 pop_checker.py
 ```
 
 
